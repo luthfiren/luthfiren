@@ -31,14 +31,16 @@ I love exploring nature, watching tech YouTube, and hunting underrated coffee sp
 ---
 
 📫 **Reach me via:**
-- [LinkedIn](https://linkedin.com/in/luthfiren)  
+- [LinkedIn](https://www.linkedin.com/in/luthfi-rihadatul-fajri/)  
 - [GitHub](https://github.com/luthfiren)  
 - [Email](mailto:fajri.rihadatulluthfi@gmail.com)  
 
 ---
 
-## 📁 Private Repositories?
-Some of my project repositories (like Artmatch, IS Expo, etc) are part of team collaborations and remain private. Please feel free to contact me if you'd like to know more or request access.
+📂 **Project Portfolio**  
+Curious about what I've built?  
+👉 [Click here to view my full project list](./portfolio.md)
+
 
 ---
 
